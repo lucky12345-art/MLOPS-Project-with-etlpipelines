@@ -40,5 +40,3 @@
 - Machine learning model training
 - Batch prediction pipeline
 - Model artifact management
-
-
